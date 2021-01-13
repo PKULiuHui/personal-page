@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+## About me
 
-You can use the [editor on GitHub](https://github.com/PKULiuHui/personal-page/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I'm Hui Liu, a second-year PHD student. I received B.S. in Computer Science and Technology from Peking University in 2019. After that, I became a PHD student of Peking University, under the supervision of [Dr. Xiaojun Wan](https://wanxiaojun.github.io). My current research focuses on Vison and Language (e.g. video captioning).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Contact
 
-### Markdown
+E-mail: xinkeliuhui@pku.edu.cn
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Publications
 
-```markdown
-Syntax highlighted code block
+#### 2020
 
-# Header 1
-## Header 2
-### Header 3
+- Yue Cao, Hui Liu and Xiaojun Wan. Jointly Learning to Align and Summarize for Neural Cross-Lingual Summarization. ACL 2020. (Long Paper)
 
-- Bulleted
-- List
+#### 2019
 
-1. Numbered
-2. List
+- Hui Liu and Xiaojun Wan. Neural Review Summarization Leveraging User and Product Information. CIKM 2019. (Short Paper) 
 
-**Bold** and _Italic_ and `Code` text
+- Hui Liu, Wentao Qin and Xiaojun Wan. INS: An Interactive Chinese News Synthesis System. In NAACL 2019. (Demo Paper) 
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/PKULiuHui/personal-page/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
