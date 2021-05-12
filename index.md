@@ -8,6 +8,10 @@ E-mail: xinkeliuhui@pku.edu.cn
 
 ## Publications
 
+#### 2021
+
+- Hui Liu and Xiaojun Wan. Video Paragraph Captioning as a Text Summarization Task. ACL 2021. (Short Paper)
+
 #### 2020
 
 - Yue Cao, Hui Liu and Xiaojun Wan. Jointly Learning to Align and Summarize for Neural Cross-Lingual Summarization. ACL 2020. (Long Paper)
